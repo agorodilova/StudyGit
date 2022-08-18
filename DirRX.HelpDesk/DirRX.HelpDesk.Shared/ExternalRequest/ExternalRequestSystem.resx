@@ -117,13 +117,49 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Property_Name" xml:space="preserve">
-    <value>Name</value>
+  <data name="DisplayName" xml:space="preserve">
+    <value>External request</value>
   </data>
-  <data name="Property_Responsible" xml:space="preserve">
-    <value>Responsible</value>
+  <data name="AccusativeDisplayName" xml:space="preserve">
+    <value>External request</value>
   </data>
-  <data name="Property_Note" xml:space="preserve">
-    <value>Note</value>
+  <data name="CollectionDisplayName" xml:space="preserve">
+    <value>External requests</value>
+  </data>
+  <data name="Property_Author" xml:space="preserve">
+    <value>Author</value>
+  </data>
+  <data name="Property_Result" xml:space="preserve">
+    <value>Result</value>
+  </data>
+  <data name="ControlGroup_25468b3ec74746b5a482e3a4795e310f" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_f90740d5aacb4a2fb579042ef5161d53" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_f90740d5aacb4a2fb579042ef5161d53_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_89902ee2dbdb4de9bd26fb68bb13a166" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_8832e18cf1b14d30b5d3a52a0847722d" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_3d411b10ae6446439d4e82de78d639e8" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_3d411b10ae6446439d4e82de78d639e8_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_d2ebec54aa3146aba3f6e8451ed53323" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_d2ebec54aa3146aba3f6e8451ed53323_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="ControlGroup_9ad64458b1ea42dcb694fe33c0dc8b2d" xml:space="preserve">
+    <value>Result</value>
   </data>
 </root>
