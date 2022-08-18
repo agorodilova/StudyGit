@@ -91,6 +91,14 @@
           "Name": "wish",
           "Code": "wish"
         }
+    },
+    {
+      "$type": "Sungero.Metadata.IntegerPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "0f945674-6f07-4c27-8513-6ffe523ed567",
+      "Name": "Code",
+      "Code": "Code",
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.NumericEditorToIntAndDoubleBinder",
+      "PreviousPropertyGuid": "3474afbb-f18b-447b-8914-5c9b949d97b3"
     }
   ],
   "PublicStructures": [],
